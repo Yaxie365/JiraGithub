@@ -12,4 +12,4 @@
 1. Cook the spaghetti.
 2. Fry the pancetta with garlic.
 3. Mix eggs and Parmesan cheese.
-4. Combine everything and season with salt and pepper.
+4. Combine everything and season with salt and pepper
