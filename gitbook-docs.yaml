@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: JiraGithub testing
+  structure:
+    - type: space
+      key: space-jiragithub
+      title: JiraGithub
+      path: jiragithub
+      default: true
+      content:
+        directory: ./
