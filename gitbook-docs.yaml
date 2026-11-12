@@ -8,4 +8,4 @@ site:
       path: jiragithub
       default: true
       content:
-        directory: ./
+        directory: ./Yaxie365/JiraGithub
